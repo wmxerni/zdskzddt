@@ -11,3 +11,5 @@
 <span style="font-size: 16px; font-family: 楷体;">进入课程后，可以看到设置，按照自己的需要设置就行了。<img class="aligncenter size-full" src="https://imgs.mznzd.com/imgs/1712/4.png"/></span>
 
 <span style="font-size: 16px; font-family: 楷体;">进入课程后，插件会全程接管，一个一个章节帮你完成看课和答题的任务，大概就一天，基本都可以搞完。<img class="aligncenter size-full" src="https://imgs.mznzd.com/imgs/1712/5.png"/></span>
+
+<span style="font-size: 16px; font-family: 楷体;">浏览器下载地址<img class="aligncenter size-full" src="https://mznzd.com/?qr=cGFnZXMvZGV0YWlsL2RldGFpbD9pZD0xNzEy"/></span>
