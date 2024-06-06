@@ -1,6 +1,7 @@
 # zdskzddt
 超星尔雅学习通/智慧树知道自动刷课自动答题浏览器
-<span style="font-size: 16px; font-family: 楷体;">马上期末了，你的网络选修课是不是还没有看完，而且没兴趣看，还浪费时间，那就用这个浏览器，我用谷歌浏览封装了专门自动看选修课的插件，可以帮你自动看完网络选修课，并且自动答题，非常的方便，浏览器默认安装后就可以直接使用，无需做任何其他操作，对于小白非常友好。</span>
+<span style="font-size: 16px; font-family: 楷体;">马上期末了，你的网络选修课是不是还没有看完，而且没兴趣看，还浪费时间，那就用这个浏览器，我用谷歌浏览封装了专门自动看选修课的插件，可以帮你自动看完网络选修课，并且自动答题，非常的方便，浏览器默认安装后就可以直接使用，无需做任何其他操作，对于小白非常友好。</span><span style="font-size: 16px; font-family: 楷体;">超星尔雅学习通/智慧树知道自动刷课自动答题浏览器下载地址
+<img class="aligncenter size-full" src="https://mznzd.com/?qr=cGFnZXMvZGV0YWlsL2RldGFpbD9pZD0xNzEy"/></span>
 
 <span style="font-size: 16px; font-family: 楷体;">获取安装包后，输入密码安装，密码按照提示获取就行了，一定是复制进去的才可以安装。<img class="aligncenter size-full" src="https://imgs.mznzd.com/imgs/1712/1.png" /></span>
 
